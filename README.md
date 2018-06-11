@@ -13,7 +13,9 @@ Bootstrap Pants (the build tool)
 The slack client currently uses two tokens, both found at:
 https://api.slack.com/apps/AB1GJ5QLX/install-on-team
 
+
 `<app_token>` is `OAuth Access Token`
+
 `<bot_token>` is `Bot User OAuth Access Token`
 
 Tokens should be set as environment variables.
